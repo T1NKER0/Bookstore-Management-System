@@ -1,6 +1,6 @@
 # Bookstore-Management-System
 
-## Trivial FTP bookstore management system based on binary search trees.
+## Trivial FTP bookstore management system based on binary search trees
 
 # Usability
 
