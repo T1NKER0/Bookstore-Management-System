@@ -2,7 +2,7 @@
 
 ## Trivial FTP bookstore management system based on binary search trees.
 
-# Usabilty
+# Usability
 
 To add a genre, the program reads the genre title (e.g., Action, Comedy, Thriller, etc.).
 
